@@ -10,7 +10,7 @@ This is a collection of Papers and Codes for Noisy Labels Problem.
 - [2017-ICLR-Training deep neural-networks based on unreliable labels-V1](http://ieeexplore.ieee.org/document/7472164/)
 - [2017-ICLR-Training deep neural-networks based on unreliable labels-V1-Poster](https://alanbekker.files.wordpress.com/2016/03/icassp_poster.pdf)
 - [2017-ICLR-Training deep neural-networks using a noise adaptation layer-V2](https://openreview.net/forum?id=H12GRgcxg)
-- [A Light CNN for Deep Face Representation with Noisy Labels](https://arxiv.org/abs/1511.02683)
+- [2017-CVPR-A Light CNN for Deep Face Representation with Noisy Labels](https://arxiv.org/abs/1511.02683)
 
 **Github**
 - [Search 'Noisy Label' Results](https://github.com/search?p=1&q=noisy+label&type=Repositories&utf8=%E2%9C%93)

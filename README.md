@@ -3,14 +3,19 @@ This is a collection of Papers and Codes for Noisy Labels Problem.
 
 
 **Papers**
+- [2013-Learning with Multiple Labels](https://papers.nips.cc/paper/2234-learning-with-multiple-labels.pdf)
 - [2013-NIPS-Learning with Noisy Labels](https://papers.nips.cc/paper/5073-learning-with-noisy-labels.pdf)
+- [2014-A Comprehensive Introduction to Label Noise](https://www.elen.ucl.ac.be/Proceedings/esann/esannpdf/es2014-10.pdf)
 - [2015-ICRL-TRAINING CONVOLUTIONAL NETWORKS WITH NOISY LABELS](https://arxiv.org/pdf/1406.2080.pdf)
 - [2015-CVPR-Learning from Massive Noisy Labeled Data for Image Classification](https://www.ics.uci.edu/~yyang8/research/noisy-label/noisy-label-cvpr2015.pdf)
 - [2015-CVPR-Training Deep Neural Networks on Noisy Labels with Bootstrapping](https://arxiv.org/abs/1412.6596)
+- [2015-ICLR-TRAINING CONVOLUTIONAL NETWORKS WITH NOISY LABELS](file:///home/brucelau/Downloads/training%20convolutional%20networks%20with%20noisy%20labels.pdf)
 - [2017-ICLR-Training deep neural-networks based on unreliable labels-V1](http://ieeexplore.ieee.org/document/7472164/)
 - [2017-ICLR-Training deep neural-networks based on unreliable labels-V1-Poster](https://alanbekker.files.wordpress.com/2016/03/icassp_poster.pdf)
 - [2017-ICLR-Training deep neural-networks using a noise adaptation layer-V2](https://openreview.net/forum?id=H12GRgcxg)
 - [2017-CVPR-A Light CNN for Deep Face Representation with Noisy Labels](https://arxiv.org/abs/1511.02683)
+- [2017-Learning From Noisy Labels With Distillation](openaccess.thecvf.com/content_iccv_2017/html/Li_Learning_From_Noisy_ICCV_2017_paper.html)
+- [2017-AAAI-Robust Loss Functions under Label Noise for Deep Neural Networks](file:///home/brucelau/Downloads/14759-66843-1-PB.pdf)
 
 **Github**
 - [Search 'Noisy Label' Results](https://github.com/search?p=1&q=noisy+label&type=Repositories&utf8=%E2%9C%93)
@@ -20,6 +25,7 @@ This is a collection of Papers and Codes for Noisy Labels Problem.
 - [Multi-tasking Learning With Unreliable Labels](https://github.com/debjitpaul/Multi-tasking_Learning_With_Unreliable_Labels)
 - [Keras-noisy-lables-finetune](https://github.com/nagash91/keras-noisy-lables-finetune) 
 - [Light CNN for Deep Face Recognition, in Tensorflow](https://github.com/yxu0611/Tensorflow-implementation-of-LCNN)
+- [Rankpruning](https://github.com/cgnorthcutt/rankpruning)
 
 **Others**
 - [Deep Learning Package-Chainer Tutorial](https://docs.chainer.org/en/stable/tutorial/index.html)

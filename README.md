@@ -6,7 +6,6 @@ This is a collection of Papers and Codes for Noisy Labels Problem.
 - [2013-Learning with Multiple Labels](https://papers.nips.cc/paper/2234-learning-with-multiple-labels.pdf)
 - [2013-NIPS-Learning with Noisy Labels](https://papers.nips.cc/paper/5073-learning-with-noisy-labels.pdf)
 - [2014-A Comprehensive Introduction to Label Noise](https://www.elen.ucl.ac.be/Proceedings/esann/esannpdf/es2014-10.pdf)
-- [2015-ICRL-TRAINING CONVOLUTIONAL NETWORKS WITH NOISY LABELS](https://arxiv.org/pdf/1406.2080.pdf)
 - [2015-CVPR-Learning from Massive Noisy Labeled Data for Image Classification](https://www.ics.uci.edu/~yyang8/research/noisy-label/noisy-label-cvpr2015.pdf)
 - [2015-CVPR-Training Deep Neural Networks on Noisy Labels with Bootstrapping](https://arxiv.org/abs/1412.6596)
 - [2015-ICLR-TRAINING CONVOLUTIONAL NETWORKS WITH NOISY LABELS](https://arxiv.org/abs/1406.2080)

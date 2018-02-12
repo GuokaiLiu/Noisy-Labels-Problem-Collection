@@ -9,13 +9,13 @@ This is a collection of Papers and Codes for Noisy Labels Problem.
 - [2015-ICRL-TRAINING CONVOLUTIONAL NETWORKS WITH NOISY LABELS](https://arxiv.org/pdf/1406.2080.pdf)
 - [2015-CVPR-Learning from Massive Noisy Labeled Data for Image Classification](https://www.ics.uci.edu/~yyang8/research/noisy-label/noisy-label-cvpr2015.pdf)
 - [2015-CVPR-Training Deep Neural Networks on Noisy Labels with Bootstrapping](https://arxiv.org/abs/1412.6596)
-- [2015-ICLR-TRAINING CONVOLUTIONAL NETWORKS WITH NOISY LABELS](file:///home/brucelau/Downloads/training%20convolutional%20networks%20with%20noisy%20labels.pdf)
+- [2015-ICLR-TRAINING CONVOLUTIONAL NETWORKS WITH NOISY LABELS](https://arxiv.org/abs/1406.2080)
 - [2017-ICLR-Training deep neural-networks based on unreliable labels-V1](http://ieeexplore.ieee.org/document/7472164/)
 - [2017-ICLR-Training deep neural-networks based on unreliable labels-V1-Poster](https://alanbekker.files.wordpress.com/2016/03/icassp_poster.pdf)
 - [2017-ICLR-Training deep neural-networks using a noise adaptation layer-V2](https://openreview.net/forum?id=H12GRgcxg)
 - [2017-CVPR-A Light CNN for Deep Face Representation with Noisy Labels](https://arxiv.org/abs/1511.02683)
 - [2017-Learning From Noisy Labels With Distillation](openaccess.thecvf.com/content_iccv_2017/html/Li_Learning_From_Noisy_ICCV_2017_paper.html)
-- [2017-AAAI-Robust Loss Functions under Label Noise for Deep Neural Networks](file:///home/brucelau/Downloads/14759-66843-1-PB.pdf)
+- [2017-AAAI-Robust Loss Functions under Label Noise for Deep Neural Networks](https://arxiv.org/abs/1712.09482)
 
 **Github**
 - [Search 'Noisy Label' Results](https://github.com/search?p=1&q=noisy+label&type=Repositories&utf8=%E2%9C%93)
